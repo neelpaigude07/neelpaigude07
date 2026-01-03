@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am Neel first year computer science student<br>I have learn HTML5 and CSS3 <br>I have also learn C language<br>built projects using HTML and CSS like amazon clone, login page<br>currently learning C++ and Python
-
+👋 Hi, I’m Neel
+💻 First-year CS student | Web Development(HTML5 CSS3) & Programming
+🌱 Currently learning C++ and Python
+🚀 Building projects and improving every day
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debugged_life_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/neel-paigude-aa660a395
